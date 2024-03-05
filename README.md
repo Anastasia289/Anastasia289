@@ -7,5 +7,3 @@ bogdanovanastja@yandex.ru
 
 ### Технологии: 
 [![My Skills](https://skillicons.dev/icons?i=py,docker,postgres,django,)](https://skillicons.dev)
-
-Благодарю за внимание!
